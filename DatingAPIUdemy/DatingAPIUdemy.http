@@ -1,0 +1,6 @@
+@DatingAPIUdemy_HostAddress = http://localhost:5233
+
+GET {{DatingAPIUdemy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
